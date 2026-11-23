@@ -1,0 +1,22 @@
+{
+  "name": "mailslurp",
+  "requiredTools": [
+    "mailslurp.create_device_rendering_from_html",
+    "mailslurp.get_agent_capabilities",
+    "mailslurp.get_api_operation",
+    "mailslurp.get_api_schema",
+    "mailslurp.get_connection_diagnostics",
+    "mailslurp.get_developer_resources",
+    "mailslurp.get_device_rendering_results",
+    "mailslurp.get_device_rendering_run",
+    "mailslurp.get_rendering_operation",
+    "mailslurp.list_device_rendering_targets",
+    "mailslurp.preflight_device_rendering",
+    "mailslurp.reconcile_rendering_operation",
+    "mailslurp.search_api_reference"
+  ],
+  "runtimeCatalogSha256": "fb6eeeef876a87effde1cfcd55d7e79031b7661e472cfb726a1faee840889847",
+  "runtimeServerVersion": "1.13.1",
+  "schemaVersion": 1,
+  "version": "0.1.0"
+}

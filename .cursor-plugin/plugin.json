@@ -1,0 +1,12 @@
+{
+  "author": {
+    "name": "MailSlurp"
+  },
+  "description": "Connect MailSlurp email, SMS and email-testing infrastructure to AI workflows.",
+  "displayName": "MailSlurp",
+  "homepage": "https://www.mailslurp.com/docs/mcp/",
+  "license": "MIT",
+  "logo": "./assets/icon.png",
+  "name": "mailslurp",
+  "version": "0.1.0"
+}

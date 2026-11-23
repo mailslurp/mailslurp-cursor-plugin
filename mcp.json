@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "mailslurp": {
+      "url": "https://api.mailslurp.com/mcp"
+    }
+  }
+}
